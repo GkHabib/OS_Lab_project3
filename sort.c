@@ -67,6 +67,7 @@ main(int argc, char *argv[])
   ticketlocktest();
   ticketlocktest();
   ticketlocktest();
+  ticketlocktest();
   exit();
 
   // int array[5];
